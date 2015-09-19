@@ -2,10 +2,12 @@ Java Game Engine
 
 
 
-Legend of Zelda
+Legend of Zelda and MineSweeper
 =============
-By: Kenny Cason<br/>
-Zelda Game written in Java - Still a new project so it's definitely a work in progress. But should demonstrate much of hte functionality<br/>
+The Legend of Zelda is written in Java and still in progress. I summed-up the idea when I was browsing the data of the game. While playing the game, I creatively manage to make a clone and molded the idea in one place. Take a look at the scene – using the [Silicone Gloves](http://www.amazon.com/Luxe-Grill-Silicone-Resistant-Grilling/dp/B0113H87LW/) and other codes such as the loop and value parameters, the game is created, but still in progress. 
+
+This is only the partial screenshot of the games. Tune in for more information.
+<br/>
 <table>
     <tr>
         <td>
